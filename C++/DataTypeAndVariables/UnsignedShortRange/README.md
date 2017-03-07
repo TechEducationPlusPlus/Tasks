@@ -1,5 +1,5 @@
-# Long Long Range
-Print minimum and maximum values of ``long long`` in C++
+# Unsigned Short Range
+Print minimum and maximum values of ``unsigned short`` in C++
 
 ##Input:
 Nothing

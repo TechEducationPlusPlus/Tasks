@@ -1,5 +1,5 @@
-# Int Range
-Print minimum and maximum values of ``int`` in C++
+# Short Range
+Print minimum and maximum values of ``short`` in C++
 
 ##Input:
 Nothing
